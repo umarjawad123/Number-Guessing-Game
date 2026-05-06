@@ -33,7 +33,7 @@ The player can choose a custom difficulty by selecting the maximum range.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/NumberGuessingGame.git
+git clone https://github.com/umarjawad123/NumberGuessingGame.git
 cd NumberGuessingGame
 ```
 
